@@ -10,12 +10,12 @@ Para poder ejecutar estas demos necesitas:
 
 ## Demos Copilot Chat
 
-1. ¿Cómo puedo crear una API en .NET Core con dotnet cli? (hazle caso 🫡)
-2. Intenta restaurar las dependencias, compilarlo, ejecutarlo, etc. a ver si lo hizo bien 🤓. En el archivo steps.sh tienes los comentarios que te ayudarán a preguntarle a GitHub Copilot
-4. Usa la extensión de Postman para probar la API
-3. Prueba lo mismo con el comando */createworkspace*
-4. ¿Puedes explicarme lo que hace esta clase?
-5. Ahora vamos a crear una API que gestione heroes. Para ello, lo primero que le voy a pedir es que me cree un modelo para estos: *Creáme un modelo para heroes*. Si reponde con una posible solución tienes 4 opciones:
+1. ¿Cómo puedo **crear una API en .NET Core con dotnet cli**? (hazle caso 🫡)
+2. Intenta restaurar las dependencias, compilarlo, ejecutarlo, etc. a ver si lo hizo bien 🤓. En el **archivo steps.sh** tienes los comentarios que te ayudarán a preguntarle a GitHub Copilot
+4. Usa la extensión de Postman para **probar la API**
+3. Prueba lo mismo con el comando **/createworkspace**
+4. **¿Puedes explicarme lo que hace esta clase?**
+5. Ahora vamos a crear una API que gestione heroes. Para ello, lo primero que le voy a pedir es que me cree un modelo para estos: **Creáme un modelo para heroes**. Si reponde con una posible solución tienes 4 opciones:
 
 <img src="images/GH%20Copilot%20Chat%20opciones%20cuando%20te%20genera%20código.png" width="40%">
 
@@ -28,3 +28,31 @@ Si ahora ejecutas la aplicación deberías de tener una API que te permite hacer
 También puedes preguntarle **¿Cómo puedo llamar a esta API desde Postman?** y te indicará los pasos de cómo hacerlo. En este entorno tienes instalada la extensión de Postman por si quieres probar.
 
 <img src="images/GH%20Copilot%20Chat%20también%20te%20explica%20cómo%20usar%20Postman%20con%20este%20código.png" width="40%">
+
+6. Puedes pedirle que te ayude a configurar el proyecto para depurarlo en Visual Studio Code: 
+
+<img src="images/GH Copilot Chat Cómo puedo hacer que me genere la configuración de VS Code para depurar.png" width="40%">
+
+7. **Oye, no quiero almacenar los heroes en memoria, ¿puedes ayudarme a crear un repositorio para almacenarlos en una base de datos?**
+
+A lo que me puede contestar con algo como esto:
+
+<img src="images/GH Copilot me ayuda a crear un repositorio y la configuración de EF - parte 1.png" width="40%">
+
+<img src="images/GH Copilot me ayuda a crear un repositorio y la configuración de EF - parte 2.png" width="40%">
+
+<img src="images/GH Copilot me ayuda a crear un repositorio y la configuración de EF - parte 3.png" width="40%">
+
+En mi ejemplo, le pido además que se asegure de que DbContext cree la base de datos si no existe.
+
+8. **¿Puedes darme la cadena de conexión para SQL Server en localhost?**
+
+Puede ser que la cadena de conexión que te de inicialmente no te funcione. En este laboratorio el objetivo es aprovechar la base de datos que tenemos como parte de la configuración del Dev Container.
+
+9.  **¿Puedes ayudarme a hacer tests unitarios?**
+
+Puedes preguntarle directamente a GitHub Copilot chat o utilizar la opción **/tests**
+
+Además, puedes preguntarle **¿Dónde puedes guardar estos tests?** y posiblemente te recomiende crear un proyecto de tests unitarios. 
+
+<img src="images/GH Copilot Chat con el comando test te auyda a crear tests.png" width="40%">
