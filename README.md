@@ -51,8 +51,17 @@ Puede ser que la cadena de conexión que te de inicialmente no te funcione. En e
 
 9.  **¿Puedes ayudarme a hacer tests unitarios?**
 
-Puedes preguntarle directamente a GitHub Copilot chat o utilizar la opción **/tests**
+Puedes preguntarle directamente a GitHub Copilot chat o utilizar la opción **/tests**. Si conoces el framework de tests unitarios que quieres utilizar puedes indicárselo. En mi caso, le indico que quiero usar xUnit.
 
-Además, puedes preguntarle **¿Dónde puedes guardar estos tests?** y posiblemente te recomiende crear un proyecto de tests unitarios. 
+Además, puedes preguntarle **¿Dónde puedes guardar estos tests?** y posiblemente te recomiende crear un proyecto de tests unitarios. Si no le has dicho qué framework quieres utilizar puede que te genere un proyecto en un framework diferente al que te hizo la clase anterior 😬.
 
 <img src="images/GH Copilot Chat con el comando test te auyda a crear tests.png" width="40%">
+
+Por último, puedes preguntarle **¿Cómo puedo ejecutar estos tests?** y te indicará los pasos a seguir. 
+
+<img src="images/GH%20Copilot%20cómo%20ejecuto%20los%20test%20unitarios.png" width="40%">
+
+En incluso si le pides algunas extensiones que te ayuden a ejecutar los tests te puede recomendar algunas.
+
+<img src="images/GH Copilot recomendación de extensiones para los tests.png" width="40%">
+
