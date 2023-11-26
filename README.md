@@ -65,7 +65,7 @@ En incluso si le pides algunas extensiones que te ayuden a ejecutar los tests te
 
 <img src="images/GH Copilot recomendación de extensiones para los tests.png" width="50%">
 
-10. ¿Puedes generarme el Terraform para desplegar esta web en Azure?
+10. **¿Puedes generarme el Terraform para desplegar esta web en Azure?**
 
 ### Traducción de código a otros lenguajes
 
