@@ -13,7 +13,7 @@ Para poder ejecutar estas demos necesitas:
 1. ¿Cómo puedo **crear una API en .NET Core con dotnet cli**? (hazle caso 🫡)
 2. Intenta restaurar las dependencias, compilarlo, ejecutarlo, etc. a ver si lo hizo bien 🤓. En el **archivo steps.sh** tienes los comentarios que te ayudarán a preguntarle a GitHub Copilot
 4. Usa la extensión de Postman para **probar la API**
-3. Prueba lo mismo con el comando **/createworkspace**
+3. Prueba lo mismo con el comando **/new**
 4. **¿Puedes explicarme lo que hace esta clase?**
 5. Ahora vamos a crear una API que gestione heroes. Para ello, lo primero que le voy a pedir es que me cree un modelo para estos: **Creáme un modelo para heroes**. Si reponde con una posible solución tienes 4 opciones:
 
@@ -64,6 +64,8 @@ Por último, puedes preguntarle **¿Cómo puedo ejecutar estos tests?** y te ind
 En incluso si le pides algunas extensiones que te ayuden a ejecutar los tests te puede recomendar algunas.
 
 <img src="images/GH Copilot recomendación de extensiones para los tests.png" width="50%">
+
+10. **¿Puedes generarme el Terraform para desplegar esta web en Azure?**
 
 ### Traducción de código a otros lenguajes
 
