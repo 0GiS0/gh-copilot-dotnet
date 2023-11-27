@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = mi-api-netcore
+build_property.ProjectDir = /workspaces/gh-copilot-dotnet/api/mi-api-netcore/

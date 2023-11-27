@@ -8,7 +8,7 @@ Para poder ejecutar estas demos necesitas:
 - O también puedes ejecutarlo en GitHub Codespaces 🐈‍⬛ [Echa un vistazo a este vídeo](https://www.youtube.com/watch?v=0qKG37C8sb8)
 
 
-## Demos Copilot Chat
+## Demos con Copilot Chat
 
 1. ¿Cómo puedo **crear una API en .NET Core con dotnet cli**? (hazle caso 🫡)
 2. Intenta restaurar las dependencias, compilarlo, ejecutarlo, etc. a ver si lo hizo bien 🤓. En el **archivo steps.sh** tienes los comentarios que te ayudarán a preguntarle a GitHub Copilot
