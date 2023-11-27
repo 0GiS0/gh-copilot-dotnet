@@ -1,6 +1,0 @@
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.csproj.AssemblyReference.cache
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.AssemblyInfoInputs.cache
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.AssemblyInfo.cs
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.csproj.CoreCompileInputs.cache
-/workspaces/gh-copilot-dotnet/api/mi-api-netcore/obj/Debug/netcoreapp3.1/mi-api-netcore.MvcApplicationPartsAssemblyInfo.cache

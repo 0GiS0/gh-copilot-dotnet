@@ -7,4 +7,3 @@
 # Ejecutar un proyecto en .NET
 
 # Añadir dependencia Microsoft.EntityFrameworkCore.SqlServer
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
